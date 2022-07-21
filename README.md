@@ -1,5 +1,15 @@
 ### Hi there 👋
                   
+Frontend Developer
+👤 Уровень: Middle
+📌 Формат работы: Удаленный/Гибрид
+🕓 Занятость: Полная - Full time
+🔆 Опыт: 1-3 лет
+🌎 Локация: РФ, Санкт - Петербург
+
+Мой стек: 
+front: JavaScript, React, Redux
+back: node.js, postgreSQL
 
 <!--
 **Nitghwolf/Nitghwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
